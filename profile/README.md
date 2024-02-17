@@ -34,6 +34,9 @@ We welcome contributions from developers interested in improving our navigation 
 
 ## Contact Us
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us. You can contact us through GitHub or via email at [contact@example.com](mailto:contact@example.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us.
+- [Satyam Vyas](mailto:satyam.vyas22@spit.ac.in)
+- [Nishita Panchal](mailto:nishita.panchal22@spit.ac.in)
+- [Manjiri Chavande](mailto:manjiri.chavande23@@spit.ac.in)
 
 Thank you for your interest in our navigation app project!
