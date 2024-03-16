@@ -27,6 +27,9 @@ For example, someone wants to travel from Thane to Andheri. Our system will disp
 - Tailwind CSS
 - Shadcn
 - Vite
+- MongoDB
+- Express JS | Node JS
+
 
 ## Contributing
 
