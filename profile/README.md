@@ -4,7 +4,7 @@ Welcome to our GitHub organization dedicated to the development of RouteRover, a
 
 ## About the Project
 
-Our navigation app analyzes various factors including traffic congestion, public transport reliability, and ride-sharing options to optimize route suggestions. Users can input their destinations through a user-friendly interface and receive detailed information on estimated travel times, costs, and available transportation modes for each segment of their journey.
+Our navigation app analyzes various factors including traffic congestion and public transport reliability to optimize route suggestions. Users can input their destinations through a user-friendly interface and receive detailed information on estimated travel times, costs, and available transportation modes for each segment of their journey.
 
 The system dynamically adapts recommendations based on changing traffic conditions and transport availability, providing real-time updates to ensure accurate navigation and minimize uncertainties during the commute.
 
@@ -28,7 +28,15 @@ For example, someone wants to travel from Thane to Andheri. Our system will disp
 - Shadcn
 - Vite
 - MongoDB
-- Express JS | Node JS
+- Express JS
+- Node JS
+- Framer Motion
+- OAuth
+- GoogleMapsPlatform
+  - Directions API
+  - Routes API
+  - Distance API
+  - Places API (Experimented)
 
 
 ## Contributing
